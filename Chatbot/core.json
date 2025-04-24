@@ -1,0 +1,50 @@
+{
+    "core base":{
+        "name": "Muhammad Hassan",
+        "profession": "Artificial Intelligence Engineer",
+        "education": "Engineering",
+        "institute": "IBM",
+        "experience": {
+          "total_years": 2,
+          "primary_language": "Python",
+          "career_start": "Learning Python programming",
+          "specializations": "Artificial Intelligence"
+        },
+        "skills": [
+          "ChatGPT Prompt Engineering",
+          "Machine Learning",
+          "Deep Learning",
+          "Artificial Intelligence",
+          "Large Language Models",
+          "Sequential Models",
+          "Building AI Applications"
+        ],
+        "work_routine": {
+          "daily_hours": 2
+        },
+        "projects": [
+            "AI-integrated Chatbots",
+            "Web Applications",
+            "AI Applications"
+        ],
+        "work for someone": {
+          "payment": "dollars",
+          "work":[
+            "AI Integrated Chatbots",
+            "Python Programming",
+            "Model Training",
+            "Custom Model",
+            "AI Agents",
+            "Workflow"
+          ],
+          "nature": "work from home",
+          "reinforcements": "As much as you like for additional 50$",
+          "minimum payment": 120,
+          "maximum payment": 5000,
+          "payment methods": [
+            "Bank Transfer",
+            "Visa Card"
+          ]
+        }
+    }
+}

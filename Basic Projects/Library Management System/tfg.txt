@@ -1,0 +1,78 @@
+[Slide 1]
+Title: Zero Bank Gravity - Investigating Phytoplankton Behavior in Space
+Presented by: M. Hassan Gul & Ahmad Bajwa
+Event: World Space Week 2024
+
+Good [morning/afternoon] everyone, my name is [your name], and today we are thrilled to present our project,
+Zero Bank Gravity. This experiment is part of an exciting initiative that bridges space exploration and climate
+science. We aim to explore how phytoplankton, tiny marine organisms that play a crucial role in carbon cycling,
+respond to space conditions. Our focus is primarily on understanding how microgravity affects these organisms
+and what that might mean for the future of climate science.
+
+[Slide 2]
+Introduction:
+Phytoplankton are essential to life on Earth as they absorb a large portion of the CO2 in the atmosphere,
+regulating our climate through a process known as carbon sequestration. However, one question remains:
+how do these organisms behave in the challenging environment of space, specifically under microgravity?
+This is a largely unexplored area of research, and understanding it could help improve both climate models
+and our broader understanding of carbon sequestration on Earth. Our experiment seeks to uncover how space
+conditions like microgravity influence the growth and carbon absorption abilities of these critical organisms.
+
+[Slide 3]
+Objectives:
+The core of our research revolves around two major objectives:
+    Microgravity's Effect: We will investigate how microgravity influences the growth, distribution, and
+    overall health of phytoplankton.
+    Carbon Absorption in Space: We will also look at how varying levels of CO2 in space affect the organisms'
+    ability to absorb carbon and sequester it.
+This data could help us develop new insights into how carbon sequestration processes might operate in space
+and, in turn, enhance our understanding of these processes on Earth.
+
+[Slide 4]
+Experiment Design:
+For this experiment, we will cultivate phytoplankton in sealed growth chambers aboard the International Space
+Station (ISS). These chambers will simulate ocean conditions such as nutrient levels, light exposure, and
+CO2 levels. Using sensors, we will continuously monitor key parameters like the growth rate of the phytoplankton,
+their nutrient uptake, and how efficiently they absorb carbon. To get the most comprehensive results, we will
+compare the behavior of phytoplankton grown in space with control samples on Earth. By doing this, we hope to
+uncover the specific ways in which microgravity affects their efficiency and adaptability.
+
+[Slide 5]
+Analyzing Ocean Carbon Sequestration:
+The ISS offers a unique vantage point, not just for our experiment, but for Earth-based observations as well.
+Through satellite imagery and sensors, we will also monitor phytoplankton blooms in Earth’s oceans. By
+combining data from our experiment with these space-based observations, we can refine our estimates of
+how much carbon the oceans are capable of sequestering. This will enable more accurate predictions about
+the future role of oceans in climate change mitigation.
+
+Additionally, by studying the interplay between phytoplankton in space and their Earth counterparts, we can
+develop more sophisticated climate models that are better at predicting global warming scenarios and
+oceanic carbon absorption rates.
+
+[Slide 6]
+Expected Outcomes:
+We anticipate that our research will lead to several important outcomes:
+
+    First, we expect to gain insights into how microgravity affects the growth, behavior, and carbon sequestration
+    capacity of phytoplankton.
+    Second, by understanding how CO2 variations impact these organisms in space, we can enhance predictions
+    for how they might function under different climate scenarios here on Earth.
+    Lastly, this data could lead to more accurate global climate models that incorporate both Earth-based and
+    space-based data for a holistic view of carbon sequestration processes.
+
+Our experiment could open doors to further research on space-based carbon removal technologies, which might
+prove vital in mitigating the effects of climate change.
+
+[Slide 7]
+Conclusion:
+In conclusion, our experiment, Zero Bank Gravity, is a stepping stone in the field of space and climate research.
+By studying phytoplankton behavior under microgravity, we will gain valuable data that will help us understand
+how these organisms contribute to climate regulation, both in space and on Earth. With this knowledge, we can
+better refine global climate strategies and develop new technologies aimed at reducing atmospheric carbon
+levels.
+
+The data we collect will also help improve satellite-based climate monitoring systems, giving scientists and
+policymakers real-time accurate data for better-informed decisions. As we venture further into space, such
+research will help ensure we have the tools needed to protect our planet for generations to come.
+
+Thank you for your attention. I’d now like to open the floor for any questions.
